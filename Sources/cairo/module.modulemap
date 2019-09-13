@@ -1,0 +1,6 @@
+module cairo [system]
+{
+    umbrella header "cairo.h"
+    link "cairo"
+    export *
+}
